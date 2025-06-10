@@ -1,7 +1,7 @@
 # Quickstart #
 ## Load Corpus ##
 
-    !git clone https://github.com/Igor-Chernov-Glad/Corpus.git
+    !git clone https://github.com/Igor-Chernov-Glad/NIR_AGENT_RAG.git
 
 Load Data from Git
 
