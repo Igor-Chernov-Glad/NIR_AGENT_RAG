@@ -43,7 +43,6 @@ Novita_Qwen
 ## Connect to weaviate ##
 
 
-        weaviate_api = "T0dMcUQwN1N2NTJZZU80dF9STzBNUWV1eXJsaTE4cHBOSk9vYVhvaFgzcXNqRU52ZGVzVC9wb25ubXdNPV92MjAw"
         Weaclient = weaviate.connect_to_weaviate_cloud(
             cluster_url=url,                     # Weaviate URL: "REST Endpoint" in Weaviate Cloud console
             auth_credentials=Auth.api_key(weaviate_api),  # Weaviate API key: "ADMIN" API key in Weaviate Cloud console
